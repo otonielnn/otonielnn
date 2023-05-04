@@ -1,7 +1,7 @@
 ## Hello! I'm Otoniel Júnior 👋
 
 - 👋 Hi, My name is Otoniel Júnior, I'm begginer in the world of developemnt, I'm 19 years old and I live in Recife-PE.
-- 🌱 I’m currently learning Python, Java and PHP
+- 🌱 I’m currently learning Python.
 - :rocket: I like to play Video games and watch movies in my free time.
 -  :book: developement system
 
