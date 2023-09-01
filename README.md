@@ -1,7 +1,7 @@
 ## Hello! I'm Otoniel Júnior 👋
 
-- 👋 Hi, My name is Otoniel Júnior, I'm begginer in the world of developemnt, I'm 19 years old and I live in Recife-PE.
-- 🌱 I’m currently learning Python.
+- 👋 Hi, My name is Otoniel Júnior, I'm begginer in the world of developemnt, I'm 21 years old and I live in Recife-PE.
+- 🌱 I’m currently learning Java.
 - :rocket: I like to play Video games and watch movies in my free time.
 -  :book: developement system
 
@@ -30,6 +30,4 @@
   <div>
   <a href="https://instagram.com/otonielnn" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/otonielnn/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/otonielnn/otonielnn/blob/output/github-contribution-grid-snake.gif)
   </div>
