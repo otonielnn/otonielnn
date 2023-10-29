@@ -1,9 +1,9 @@
 ## Hello! I'm Otoniel Júnior 👋
 
 - 👋 Hi, My name is Otoniel Júnior, I'm begginer in the world of developemnt, I'm 21 years old and I live in Recife-PE.
-- 🌱 I’m currently learning Java.
-- :rocket: I like to play Video games and watch movies in my free time.
--  :book: developement system
+- 🌱 I’m currently learning Spring Boot and Angular.
+- :rocket: I enjoy to play video games and watch movies in my free time.
+-  :book: Projeto Start 2023.2
 
 <div align="center">
   <a href="https://github.com/otonielnn">
@@ -13,15 +13,11 @@
   <hr>
   
   ### Languages
-  
-  <div style="display: inline_block">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-</div>
+  <p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,java,angular,typescript,python,php&theme=dark" />
+  </a>
+</p>
   <hr>
   
   ### Social Medias
