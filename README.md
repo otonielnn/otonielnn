@@ -1,9 +1,9 @@
 ## Hello! I'm Otoniel Júnior 👋
 
-- 👋 Hi, My name is Otoniel Júnior, I'm begginer in the world of developemnt, I'm 21 years old and I live in Recife-PE.
-- 🌱 I’m currently learning Spring Boot and Angular.
+- 👋 Hi, My name is Otoniel Júnior, I'm begginer in the world of developemnt, I'm 22 years old and I live in Recife-PE.
+- 🌱 I’m currently learning Spring Boot.
 - :rocket: I enjoy to play video games and watch movies in my free time.
--  :book: Projeto Start 2023.2
+-  :book: Computer degree at UFRPE
 
 <div align="center">
   <a href="https://github.com/otonielnn">
